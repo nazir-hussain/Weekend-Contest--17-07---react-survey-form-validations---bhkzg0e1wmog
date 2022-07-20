@@ -10,3 +10,5 @@ Note : Please define input types for each element. Example : input[type = 'text'
 5. Contact: Should be a 10- digit number; otherwise, show alert "Enter valid contact!"
 5. Postal Code: Must be a six- digit number; otherwise, display an alert "Enter valid postal code!"
 If all validations are successful, display an alert "Submitted"
+
+Note : A validation check should be performed after clicking the submit button.
